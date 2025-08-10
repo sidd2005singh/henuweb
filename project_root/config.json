@@ -1,0 +1,12 @@
+{
+    "AWS": {
+        "ACCESS_KEY": "uesr_access_key",
+        "SECRET_KEY": "user_secret_key",
+        "REGION": "us-east-1"
+    },
+    "Twilio": {
+        "SID": "ACXXXXXXXXXXXXXXXX",
+        "TOKEN": "your_auth_token",
+        "FROM": "+1234567890"
+    }
+}
