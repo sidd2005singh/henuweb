@@ -34,12 +34,14 @@ Replace the placeholder config in `src/services/firebase.ts` with your actual Fi
 
 ```typescript
 const firebaseConfig = {
-  apiKey: "your-actual-api-key",
-  authDomain: "your-project.firebaseapp.com",
-  projectId: "your-project-id",
-  storageBucket: "your-project.appspot.com",
-  messagingSenderId: "your-sender-id",
-  appId: "your-app-id"
+  apiKey: "AIzaSyCBR5sd5kI8l-3WpNnL0J16t3SvqGi7lQg",
+  authDomain: "henu-586ce.firebaseapp.com",
+  databaseURL: "https://henu-586ce-default-rtdb.firebaseio.com",
+  projectId: "henu-586ce",
+  storageBucket: "henu-586ce.firebasestorage.app",
+  messagingSenderId: "633755919625",
+  appId: "1:633755919625:web:3a86a50604c1e143495fd8",
+  measurementId: "G-GTVCJE7M5T"
 };
 ```
 
