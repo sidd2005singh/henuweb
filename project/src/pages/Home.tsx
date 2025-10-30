@@ -50,7 +50,7 @@ const Home = () => {
               <span>View Documentation</span>
             </Link>
             <a
-              href="https://youtu.be/-NYIYiMqb54"
+              href="https://drive.google.com/file/d/1MwiZ6LNtGjRtlAv6wTJJItQY_GPZ0WxL/view"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 border-2 border-orange-400 text-orange-400 hover:bg-orange-400 hover:text-black font-semibold rounded-full transition-all duration-300 transform hover:scale-105 flex items-center space-x-2"
