@@ -56,7 +56,8 @@ const Home = () => {
               className="px-8 py-4 border-2 border-orange-400 text-orange-400 hover:bg-orange-400 hover:text-black font-semibold rounded-full transition-all duration-300 transform hover:scale-105 flex items-center space-x-2"
             >
               <span className="mr-2">📄</span>
-              <span>Research Paper</span>
+              <span>Research Paper</span> 
+              </Link> href="https://drive.google.com/file/d/1MwiZ6LNtGjRtlAv6wTJJItQY_GPZ0WxL/view" </Link>
             </a>
           </motion.div>
 
