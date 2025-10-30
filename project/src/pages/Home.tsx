@@ -57,7 +57,7 @@ const Home = () => {
             >
               <span className="mr-2">📄</span>
               <span>Research Paper</span> 
-              </Link> href="https://drive.google.com/file/d/1MwiZ6LNtGjRtlAv6wTJJItQY_GPZ0WxL/view" </Link>
+              
             </a>
           </motion.div>
 
